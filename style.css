@@ -1,7 +1,27 @@
 /* Hope Johns */
 html
 {
-  background-image: url("images/marble.jpg");
+  font-family: "Josefin Slab", serif;
+}
+
+body
+{
+  background-image: url("images/bigmarble.jpg");
+  background-position: center;
+  background-size: cover;
+  font-family: "Josefin Slab", sans-serif;
+  font-size: 20px;
+}
+
+.page
+{
+  display: flex;
+}
+
+.profile
+{
+  flex: auto;
+  width: 2000%;
 }
 
 .nav-item
@@ -9,8 +29,32 @@ html
   padding-left: 200px;
 }
 
-.cards
+.card1
 {
-  display: flex;
-  padding: 20px;
+  flex: auto;
+  font-style: italic;
+}
+
+.card2
+{
+  flex: auto;
+  font-style: italic;
+}
+
+.navbar
+{
+  font-size: 30px;
+}
+
+h5
+{
+  font-size: 35px;
+}
+
+footer
+{
+  bottom: 0;
+  position: relative;
+  width: 100%;
+  text-align: center;
 }
