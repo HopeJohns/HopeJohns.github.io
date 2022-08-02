@@ -1,0 +1,32 @@
+/* Hope Johns */
+/* Pretty About You */
+/* 6/13/2022 */
+
+* {
+  background-color: lightblue;
+  color: navy;
+  font-family: "Georgia", sans-serif;
+}
+
+nav ul {
+  text-align: center;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
