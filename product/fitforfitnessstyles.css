@@ -1,5 +1,5 @@
 html {
-  background-image: url(gym.jpg);
+  background-image: url("images/gym.jpg");
   background-size: cover;
   background-attachment: fixed;
   font-family: Georgia, serif;

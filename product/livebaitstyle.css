@@ -42,7 +42,7 @@ body
   font-size: 30px;
   font-style: italic;
   grid-area: showcases;
-  background: url("product/images/littleboat.jpg");
+  background: url("images/littleboat.jpg");
   min-height: 400px;
   background-size: cover;
   background-position: center;
@@ -85,7 +85,7 @@ body
 
 .continfo
 {
-  background-image: url("product/images/fishart.jpg");
+  background-image: url("images/fishart.jpg");
   background-size: cover;
   text-align: left;
   font-size: 30px;
